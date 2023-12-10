@@ -2,7 +2,7 @@
 
 <img alt="image" src="./assets/images/gene1.jpg">
 
-## Welcome to NotchAI, where innovation meets healthcare. We're dedicated to revolutionizing the medical landscape with cutting-edge AI solutions. Our mission is to provide accessible, accurate, and timely health insights to empower individuals in managing their well-being.
+## Welcome to iHealth, where innovation meets healthcare. We're dedicated to revolutionizing the medical landscape with cutting-edge AI solutions. Our mission is to provide accessible, accurate, and timely health insights to empower individuals in managing their well-being.
 
 </br>
 
@@ -10,7 +10,7 @@
 
 - [Structure](#structure)
 - [Purpose](#purpose)
-- [How Generative AI are Solving the Problem](#generativeAI)
+- [How AI and Machine learning are Solving the Problem](#AL and ML)
 - [License](#license)
 
 </br>
@@ -35,13 +35,13 @@ The repository serves as a centralized hub on GitHub for the iHealth project, ho
 </br>
 
 <a name="generativeAI"></a>
-## How Generative AI are Solving the Problem
+## How AI Machine learning are Solving the Problem
 
-Generative AI plays a pivotal role in addressing iHealth's primary challenge: rapid and accurate diagnosis and patient scanning. By leveraging generative AI algorithms, our solution can swiftly analyze live patient data, such as skin rashes or symptoms, in real-time through image recognition or natural language processing. This technology allows for rapid assessments, identifying potential medical conditions and suggesting treatment options with remarkable speed and precision. It revolutionizes healthcare by providing immediate, reliable insights, ultimately expediting the diagnostic process and improving patient outcomes while reducing the burden on medical professionals and facilities.
+AI and Machine Learning plays a pivotal role in addressing iHealth's primary challenge: rapid and accurate diagnosis and patient treatment. 
 
 </br>
 
 ### All of the source codes are available here.
 
 - iHealth Frontend APP SOURCE CODE [@nnam-droid12](https://github.com/nnam-droid12/iHealth)
-- NOTCHAI Backend App SOURCE CODE [@nnam-droid12]()
+- iHealth Backend App SOURCE CODE [@nnam-droid12](https://github.com/nnam-droid12/iHealth-backend)
