@@ -1,6 +1,6 @@
 {
-    "name": "ihealth",
-    "short_name": "ihealth",
+    "name": "notchai_frontend",
+    "short_name": "notchai_frontend",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
